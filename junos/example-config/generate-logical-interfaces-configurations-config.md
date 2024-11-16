@@ -67,7 +67,7 @@ Where:
 - `unit1` and `unit2` are sequentially assigned starting from `0` for the first link.
 - `ip1` and `ip2` are generated IP addresses, starting from `192.168.10.1/30` and incrementing for each new link.
 
-#Example Output
+# Example Output
 
 For the input file:
 
